@@ -1,6 +1,6 @@
 # 🧠 Productivity Dashboard
 
-A simple, all-in-one dashboard to help users manage their daily tasks, study goals, notes, moods, and more — built from scratch with *HTML, **Tailwind CSS, and **Vanilla JavaScript*.
+A simple, all-in-one dashboard to help users manage their daily tasks, notes, moods, and more — built from scratch with *HTML, **Tailwind CSS, and **Vanilla JavaScript*.
 
 ---
 
@@ -40,33 +40,20 @@ https://productivity-dashboard-neon.vercel.app
 
 ---
 
-### 📚 2. Study Tracker (Coming Soon)  
-- Log study sessions, subjects, and duration  
-- Weekly overview or progress view  
-- Designed for focused learning routines
-
----
-
-### 📝 3. Notes App (Planned)  
+### 📝 2. Notes App (Planned)  
 - Quick notes for ideas, links, and reminders  
 - Optional categories or markdown preview
 
 ---
 
-### 💬 4. Daily Mood & Quote (Planned)  
+### 💬 3. Daily Mood & Quote (Planned)  
 - Track your daily mood with emojis or colors  
 - Get a motivational quote to boost your day
 
 ---
 
-### 🌤 5. Weather Widget (Optional)  
-- Minimal card showing current weather based on location  
-- Helps with planning your day
-
----
-
-### 🎯 6. Daily Micro-Goals (Planned)  
-- Check off habits or daily wins  
+### 🎯 6. Task Manager  
+- Check off habits or daily goals  
 - Light productivity push for small tasks
 
 ---
