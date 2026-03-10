@@ -52,9 +52,9 @@ https://productivity-dashboard-neon.vercel.app
 
 ---
 
-### 🎯 6. Task Manager  
-- Check off habits or daily goals  
-- Light productivity push for small tasks
+### 🎯 4. Timer  
+- Set timers for activities  
+- Light productivity push for small tasks, using the pomodoro technique
 
 ---
 
