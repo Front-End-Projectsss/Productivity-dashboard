@@ -4,6 +4,11 @@ A simple, all-in-one dashboard to help users manage their daily tasks, study goa
 
 ---
 
+## Live Demo
+https://productivity-dashboard-neon.vercel.app
+
+---
+
 ## 🚀 Features
 
 ### ✅ 1. Task Manager  
@@ -62,6 +67,9 @@ This project is part of a personal initiative to build a complete productivity d
 
 ---
 
+## Screenshots
+
+---
 ## 👩‍💻 Author  
 
 *Raeedah Musa*  
